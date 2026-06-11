@@ -57,7 +57,7 @@ This project helps stakeholders understand sales performance, identify growth op
 
 ## Dashboard Preview
 
-![Dashboard](amazon-dashboard.png)
+![Dashboard](Amazon-overview-dashboard.png)
 
 ---
 
