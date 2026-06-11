@@ -10,7 +10,7 @@ Amazon India Revenue Insights is a business intelligence project designed to ana
 
 - Analyze revenue performance across products and categories
 - Identify top-performing products and regions
-- Track key business KPIs
+- Evaluate business performance through data analysis
 - Discover sales and profit trends
 - Support data-driven decision making
 
